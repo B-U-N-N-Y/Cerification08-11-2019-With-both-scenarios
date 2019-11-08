@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-08T15:04:24Z" name="Default suite" finished-at="2019-11-08T15:04:55Z" duration-ms="30613">
+    <groups>
+    </groups>
+    <test started-at="2019-11-08T15:04:24Z" name="Default test" finished-at="2019-11-08T15:04:55Z" duration-ms="30613">
+      <class name="com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation">
+        <test-method is-config="true" signature="intitailizeBrowser()[pri:0, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:13Z" name="intitailizeBrowser" finished-at="2019-11-08T15:04:24Z" duration-ms="11676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method is-config="true" signature="intailization()[pri:0, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:24Z" name="intailization" finished-at="2019-11-08T15:04:33Z" duration-ms="8236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intailization -->
+        <test-method signature="tutorialsNinjaHomePageValidation()[pri:1, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:33Z" name="tutorialsNinjaHomePageValidation" finished-at="2019-11-08T15:04:33Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorialsNinjaHomePageValidation -->
+        <test-method signature="tutorialsNinjaProductValidation([Ljava.lang.String;)[pri:2, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:34Z" name="tutorialsNinjaProductValidation" data-provider="productData" finished-at="2019-11-08T15:04:44Z" duration-ms="10238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7fa86ddd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorialsNinjaProductValidation -->
+        <test-method signature="tutorialsNinjaProductValidation([Ljava.lang.String;)[pri:2, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:44Z" name="tutorialsNinjaProductValidation" data-provider="productData" finished-at="2019-11-08T15:04:52Z" duration-ms="8175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1e9f6095]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tutorialsNinjaProductValidation -->
+        <test-method signature="cartValidation()[pri:3, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:52Z" name="cartValidation" finished-at="2019-11-08T15:04:55Z" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartValidation -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation@7ea37dbf]" started-at="2019-11-08T15:04:55Z" name="endTest" finished-at="2019-11-08T15:04:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.tutorialsninja.TutorialsninjaAutomation.testscripts.TutorialsNinjaFunctionalityValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
